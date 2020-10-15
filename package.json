@@ -1,0 +1,31 @@
+{
+  "name": "sgadu9--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "@progress/kendo-react-form": "3.17.0",
+    "@progress/kendo-react-buttons": "3.17.0",
+    "@progress/kendo-react-layout": "3.17.0",
+    "@progress/kendo-react-intl": "3.17.0",
+    "@progress/kendo-react-progressbars": "3.17.0",
+    "@progress/kendo-react-inputs": "3.17.0",
+    "@progress/kendo-drawing": "1.13.7",
+    "@progress/kendo-react-animation": "3.17.0",
+    "@progress/kendo-react-dateinputs": "3.17.0",
+    "@progress/kendo-react-labels": "3.17.0",
+    "@progress/kendo-react-upload": "3.17.0",
+    "@progress/kendo-react-dropdowns": "3.17.0",
+    "@progress/kendo-react-common": "3.17.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
